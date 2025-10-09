@@ -483,9 +483,8 @@ const DEMO_CONFIG = {
 ## 📚 Further Reading
 
 - [Testing Guide](TESTING.md)
-- [API Documentation](API.md)
-- [Contributing Guidelines](../CONTRIBUTING.md)
-- [Deployment Guide](../README.md#deployment)
+- [Documentation](README.md)
+- [Contributing Guidelines](CONTRIBUTING.md)
 
 ---
 
