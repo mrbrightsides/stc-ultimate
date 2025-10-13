@@ -654,7 +654,7 @@
 - **API Docs:** `/docs/api`
 - **User Guide:** `/docs/user-guide`
 - **GitHub:** [STC Repository]
-- **Contact:** support@smarttourismchain.com
+- **Contact:** support@elpeef.com
 
 ---
 
@@ -662,8 +662,3 @@
 **Last Updated:** 2025  
 **Author:** SmartTourismChain (STC) Team  
 **Status:** Production-Ready Prototype
-
----
-
-**Note for Presenters:**  
-Gunakan dokumen ini sebagai reference saat presentasi. Focus on storytelling - mulai dari problem, show solution dengan live demo, close dengan impact & business model. SCADA bukan hanya technical achievement, tapi **innovation yang democratize technology untuk UMKM Indonesia.** 🇮🇩🚀
