@@ -508,7 +508,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 - **Website**: [https://smartourism.elpeef.com](https://smartourism.elpeef.com)
-- **GitHub**: [https://github.com/yourusername/stc-ultimate](https://github.com/mrbrightsides/stc-ultimate)
+- **GitHub**: [https://github.com/mrbrightsides/stc-ultimate](https://github.com/mrbrightsides/stc-ultimate)
 - **Email**: support@elpeef.com
 
 ---
