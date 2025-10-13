@@ -25,9 +25,6 @@ Supervisory Control and Data Acquisition untuk **operational management** infras
 - ✅ **Ensure** operational efficiency and safety
 - ✅ **Automate** routine operational decisions
 
-**Target Outcome:**  
-> "Hari ini operasional berjalan optimal, tidak ada downtime, energy efficient, visitors aman dan nyaman."
-
 ---
 
 ### **Research Hub**
@@ -42,9 +39,6 @@ Academic research platform untuk **knowledge creation, analysis, dan publication
 - ✅ **Document** methodology dan findings
 - ✅ **Collaborate** dengan researchers, universities
 - ✅ **Archive** research artifacts dan datasets
-
-**Target Outcome:**  
-> "Paper kita accepted di Scopus Q3, dissertation approved, research contribute to scientific body of knowledge."
 
 ---
 
@@ -714,6 +708,4 @@ Improves operational performance
 
 ---
 
-**Pro Tip untuk Presentasi:**
-Kalau ditanya "Why both?", answer dengan analogy:
-> "SCADA seperti **pilot flying the plane** (operational). Research Hub seperti **aerospace engineer analyzing flight data** (academic). Both needed - pilot ensure safe flight today, engineer improve aircraft design for tomorrow." ✈️🔬
+> 💡 "SCADA seperti **pilot flying the plane** (operational). Research Hub seperti **aerospace engineer analyzing flight data** (academic). Both needed - pilot ensure safe flight today, engineer improve aircraft design for tomorrow." ✈️🔬
