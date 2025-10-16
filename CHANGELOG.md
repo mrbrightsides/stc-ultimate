@@ -1,7 +1,5 @@
 # STC Ultimate - Changelog
 
-## [Version 2.6.0] - Blockchain-IoT Integration & Analytics Enhancement
-
 ### 🎯 Overview
 Major update implementing real blockchain-to-IoT integration with comprehensive analytics, event tracking, and webhook notification system. This release transforms the platform from a basic smart tourism booking system into a production-ready Web3-enabled SCADA ecosystem with verifiable on-chain data.
 
