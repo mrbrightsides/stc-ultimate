@@ -1,6 +1,6 @@
 # STC Ultimate - Changelog
 
-## [Version 2.5.0] - Blockchain-IoT Integration & Analytics Enhancement
+## [Version 2.6.0] - Blockchain-IoT Integration & Analytics Enhancement
 
 ### 🎯 Overview
 Major update implementing real blockchain-to-IoT integration with comprehensive analytics, event tracking, and webhook notification system. This release transforms the platform from a basic smart tourism booking system into a production-ready Web3-enabled SCADA ecosystem with verifiable on-chain data.
@@ -9,7 +9,7 @@ Major update implementing real blockchain-to-IoT integration with comprehensive 
 
 ## Recent Updates (Latest → Oldest)
 
-### [2.5.6] - 2024 - SCADA UI Enhancement
+### [2.5.6] - November 2025 - SCADA UI Enhancement
 **Focus: User Experience Optimization**
 
 #### Added
@@ -29,7 +29,7 @@ Major update implementing real blockchain-to-IoT integration with comprehensive 
 
 ---
 
-### [2.5.5] - 2024 - Event History Analytics
+### [2.5.5] - October 2025 - Event History Analytics
 **Focus: Academic & Research Value**
 
 #### Added
@@ -63,7 +63,7 @@ Major update implementing real blockchain-to-IoT integration with comprehensive 
 
 ---
 
-### [2.5.4] - 2024 - Full System Enhancement Suite
+### [2.5.4] - September 2025 - Full System Enhancement Suite
 **Focus: Production-Grade Features**
 
 #### Added
@@ -107,7 +107,7 @@ Major update implementing real blockchain-to-IoT integration with comprehensive 
 
 ---
 
-### [2.5.3] - 2024 - Blockchain Event Tracking System
+### [2.5.3] - August 2025 - Blockchain Event Tracking System
 **Focus: Real Blockchain-IoT Integration**
 
 #### Added
@@ -150,7 +150,7 @@ IoT Action Generation → Context Update → UI Display
 
 ---
 
-### [2.5.2] - 2024 - API Integration Endpoints
+### [2.5.2] - July 2025 - API Integration Endpoints
 **Focus: Platform Interoperability**
 
 #### Changed
@@ -173,7 +173,7 @@ IoT Action Generation → Context Update → UI Display
 
 ---
 
-### [2.5.1] - 2024 - AI Assistant UI Cleanup
+### [2.5.1] - June 2025 - AI Assistant UI Cleanup
 **Focus: UX Consistency**
 
 #### Removed
@@ -188,7 +188,7 @@ IoT Action Generation → Context Update → UI Display
 
 ---
 
-### [2.5.0] - 2024 - Export System & Dashboard Summary
+### [2.5.0] - May 2025 - Export System & Dashboard Summary
 **Focus: Academic Presentation & Data Portability**
 
 #### Added
