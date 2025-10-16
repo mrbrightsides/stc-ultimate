@@ -2,6 +2,9 @@
 
 **Smart Tourism Chain Ultimate** - Platform pariwisata digital revolusioner yang mengintegrasikan blockchain-based escrow dan IoT event triggers untuk pengalaman multi-vendor yang seamless.
 
+[![SWH](https://img.shields.io/badge/archived%20at-Software%20Heritage-orange)](https://archive.softwareheritage.org/browse/directory/81dd2c91dbbedffeb4ad440c449670813ab6d440/?origin_url=https://doi.org/10.5281/zenodo.17369751&path=mrbrightsides-stc-ultimate-d5bab17&release=3&snapshot=30d016bd42d9cd6a12ad71c2964c288e6ab2a754)
+[![OpenAIRE](https://img.shields.io/badge/indexed%20by-OpenAIRE-blue)](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.17369849)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17369849.svg)](https://doi.org/10.5281/zenodo.17369849)
 [![Built with Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org/)
 [![Blockchain](https://img.shields.io/badge/Blockchain-Ethereum-blue)](https://ethereum.org/)
 [![Network](https://img.shields.io/badge/Network-Sepolia-orange)](https://sepolia.etherscan.io/)
