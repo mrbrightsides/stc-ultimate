@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+type: software
+title: "STC Ultimate: SmartTourismChain Ultimate Platform"
+version: 2.5.6
+date-released: 2025-08-31
+abstract: >
+  STC Ultimate is a comprehensive Web3-based smart tourism platform that leverages 
+  blockchain technology for secure bookings, payments, and IoT-driven services. 
+  The platform integrates Ethereum smart contracts with SCADA systems for real-time 
+  monitoring and automation, providing a production-ready solution for SMEs in 
+  Indonesia's tourism sector. Key features include blockchain-verified transactions, 
+  event-driven IoT automation, comprehensive analytics, and academic validation tools 
+  for dissertation research and Scopus Q3 publication.
+
+authors:
+  - family-names: "Khudri"
+    given-names: "Akhmad"
+    affiliation: "Sriwijaya University"
+    orcid: "https://orcid.org/0009-0005-6689-2480"
+
+repository-code: "https://github.com/mrbrightsides/stc-ultimate"
+url: "https://stc-ultimate.elpeef.com"
+license: Proprietary
+
+keywords:
+  - blockchain
+  - smart tourism
+  - IoT
+  - SCADA
+  - Web3
+  - smart contracts
+  - Ethereum
+  - decentralized systems
+  - tourism technology
+  - Indonesia
+  - SMEs
+  - Next.js
+  - TypeScript
+  - event-driven architecture
+
+preferred-citation:
+  type: software
+  title: "STC Ultimate: A Blockchain-Enabled Smart Tourism Platform with IoT Integration"
+  authors:
+    - family-names: "Khudri"
+      given-names: "Akhmad"
+  year: 2025
+  version: 2.5.6
+  notes: "Dissertation validation platform for Scopus Q3 publication"
