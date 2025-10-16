@@ -583,16 +583,6 @@ const testIoTMapping = () => {
 
 ---
 
-## 💬 Support & Questions
-
-For implementation questions or collaboration:
-- Platform: STC Ultimate Dashboard
-- Contact: Via platform contact form
-- Academic Advisor: [To be filled]
-- GitHub: [If applicable]
-
----
-
-**Last Updated**: 2024  
+**Last Updated**: 2025  
 **Version**: 2.5.6  
 **Status**: Production-Ready for Academic Defense
