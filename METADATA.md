@@ -1,7 +1,7 @@
 # STC Ultimate - Project Metadata
 
 > **Human-Readable Metadata Documentation**  
-> Version: 2.5.6 | Last Updated: December 2024
+> Version: 2.5.6 | Last Updated: November 2025
 
 ---
 
@@ -407,8 +407,8 @@ See [CHANGELOG.md](../CHANGELOG.md) for detailed version history.
 
 ### Academic Inquiries
 
-**Institution**: [Academic Institution Name]  
-**Department**: [Department]  
+**Institution**: Sriwijaya University  
+**Department**: Informatics Engineering  
 **Research Area**: Blockchain in Tourism, IoT Automation  
 **Target Publication**: Scopus Q3
 
@@ -473,8 +473,8 @@ For licensing inquiries, please contact through institutional channels.
 
 ## 🔗 Quick Links
 
-- [Main Repository](https://github.com/institution/stc-ultimate)
-- [Live Demo](https://stc-ultimate.vercel.app)
+- [Main Repository](https://github.com/mrbrightsides/stc-ultimate)
+- [Live Demo](https://stc-ultimate.elpeef.com)
 - [Sepolia Etherscan](https://sepolia.etherscan.io)
 - [Documentation Index](../README.md#documentation)
 - [Changelog](../CHANGELOG.md)
@@ -482,7 +482,7 @@ For licensing inquiries, please contact through institutional channels.
 
 ---
 
-**Last Updated**: December 31, 2024  
+**Last Updated**: November 30, 2025  
 **Metadata Version**: 2.5.6  
 **Document Status**: Complete  
 **Next Review**: Post-Defense (Q1 2025)
