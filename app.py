@@ -91,4 +91,4 @@ def embed_iframe(src, hide_top_px=100, hide_bottom_px=0, height=800):
 
 iframe_url = "https://stc-ultimate.elpeef.com/"
 
-embed_iframe(iframe_url, hide_top_px=40, hide_bottom_px = -145, height=800)
+embed_iframe(iframe_url, hide_top_px=30, hide_bottom_px = -105, height=800)
