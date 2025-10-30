@@ -10,6 +10,8 @@ The **HCPS-Tourism 5.0 Framework** represents a paradigm shift in how we approac
 ### Key Innovation
 This framework uniquely combines blockchain technology, IoT infrastructure, AI-driven personalization, and metaverse experiences into a unified platform that empowers both tourists and small-medium enterprises (SMEs) in Indonesia.
 
+---
+
 ## Core Objectives
 
 1. **Transparent Transactions** - Blockchain-based payment systems ensure transparency and instant settlement
@@ -18,6 +20,8 @@ This framework uniquely combines blockchain technology, IoT infrastructure, AI-d
 4. **SME Empowerment** - Web3 tools that enable small businesses to compete in global markets
 5. **Research Integration** - Comprehensive data collection for academic studies and dissertations
 6. **Decentralized Governance** - DAO-based decision making ensures fair stakeholder representation
+
+---
 
 ## HCPS Framework Layers
 
@@ -99,6 +103,7 @@ Decentralized governance, policies, and regulatory compliance
 - Audit Tools
 - Compliance Systems
 
+---
 
 ## Stakeholder Ecosystem
 
@@ -170,6 +175,7 @@ Decentralized governance, policies, and regulatory compliance
 - Emergency response tools
 - Comprehensive audit logs
 
+---
 
 ## Research Framework
 
@@ -288,6 +294,7 @@ Developing and testing DAO-based governance models for tourism platforms
 - Stakeholder engagement models
 - Regulatory compliance guidelines
 
+---
 
 ## Tourism 5.0 Characteristics
 
@@ -341,6 +348,7 @@ Multi-stakeholder cooperation and co-creation
 - Open innovation platform
 - Cross-sector partnerships
 
+---
 
 ## Academic References
 
