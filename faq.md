@@ -1,6 +1,6 @@
 # STC Ultimate - Frequently Asked Questions (FAQ)
 
-**Last Updated:** 2024  
+**Last Updated:** Nov 2025
 **Version:** 1.0
 
 ---
@@ -498,9 +498,9 @@ A **Digital Twin** is a real-time digital replica of a physical destination.
 **Recommended Citation (APA 7th):**
 
 ```
-[Your Name]. (2024). STC Ultimate: A Human Cyber-Physical System for 
+Khudri, Akhmad. (2025). STC Ultimate: A Human Cyber-Physical System for 
 Smart Tourism Using Blockchain, IoT, and AI [Software platform]. 
-Retrieved from https://stc-ultimate.vercel.app
+Retrieved from https://stc-ultimate.elpeef.com
 
 Smart Contract Address: 0xBbD364E822E60c4972d12b4BBD2B2cF12c94b613 
 (Ethereum Sepolia Testnet)
@@ -565,7 +565,7 @@ Collaborative (DAO), Human (Multi-stakeholder).
 
 1. **Full Platform Embed**
    ```html
-   <iframe src="https://stc-ultimate.vercel.app/embed" />
+   <iframe src="https://stc-ultimate.elpeef.com/embed" />
    ```
 
 2. **API Integration**
@@ -1080,7 +1080,7 @@ Collaborative (DAO), Human (Multi-stakeholder).
 - IoT sensors for visitor tracking
 - Community DAO for heritage preservation
 
-**Target Launch:** Q2-Q3 2024
+**Target Launch:** Q2-Q3 2025
 
 **Expected Impact:**
 - Increase tourism by 30-50%
@@ -1194,8 +1194,8 @@ Collaborative (DAO), Human (Multi-stakeholder).
    - Heritage preservation collaboration
 
 **Contact:**
-- Email: pilot@stc-ultimate.com (coming soon)
-- Project Lead: [Your Name/Contact]
+- Email: support@elpeef.com
+- Project Lead: Akhmad Khudri
 
 ---
 
@@ -1333,7 +1333,7 @@ Collaborative (DAO), Human (Multi-stakeholder).
    - Describe issue + attach screenshot
 
 2. **Email**
-   - support@stc-ultimate.com
+   - support@elpeef.com
    - Include:
      - Wallet address
      - Device/browser info
@@ -1341,7 +1341,7 @@ Collaborative (DAO), Human (Multi-stakeholder).
      - Screenshot/video
 
 3. **GitHub Issues** (for developers)
-   - https://github.com/your-org/stc-ultimate/issues
+   - https://github.com/mrbrightsides/stc-ultimate/issues
    - Check existing issues first
    - Provide technical details
 
@@ -1360,7 +1360,7 @@ Collaborative (DAO), Human (Multi-stakeholder).
 
 ### Contact Us
 
-- **Email:** support@stc-ultimate.com
+- **Email:** support@elpeef.com
 - **Discord:** [Join community] (coming soon)
 - **Twitter/X:** @STCUltimate (coming soon)
 - **Telegram:** t.me/STCUltimate (coming soon)
