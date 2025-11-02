@@ -1,7 +1,9 @@
 # STC Ultimate - Developer Integration Guide
 
 **Version:** 1.0  
-**Last Updated:** 2024  
+
+**Last Updated:** Nov 2025
+
 **Status:** Production-Ready for Pilot Projects
 
 ---
@@ -118,8 +120,8 @@ STC Ultimate is a **Human Cyber-Physical System (HCPS)** for smart tourism, comb
 ### Installation
 
 ```bash
-# Clone the repository (if open-sourced)
-git clone https://github.com/your-org/stc-ultimate.git
+# Clone the repository
+git clone https://github.com/mrbrightsides/stc-ultimate.git
 cd stc-ultimate
 
 # Install dependencies
@@ -918,39 +920,39 @@ fetch('/api/proxy', {
 
 ### Community
 
-- **GitHub Issues:** [Report bugs](https://github.com/your-org/stc-ultimate/issues)
+- **GitHub Issues:** [Report bugs](https://github.com/mrbrightsides/stc-ultimate/issues)
 - **Developer Forum:** [Ask questions](#)
 - **Discord:** [Join community](#)
 
 ### Contact
 
 For pilot project inquiries (Pulau Penyengat, Bintan):
-- **Email:** dev@stc-ultimate.com
-- **Project Lead:** [Your Name]
+- **Email:** support@elpeef.com
+- **Project Lead:** Akhmad Khudri
 
 ---
 
 ## Roadmap
 
-### Q1 2024
+### Q1 2025
 - ✅ Sepolia testnet deployment
 - ✅ HCPS framework documentation
 - ✅ IoT simulation & real sensors
 - ✅ Digital Twin integration docs
 
-### Q2 2024
+### Q2 2025
 - 🔄 Base mainnet migration
 - 🔄 IDRT integration
 - 🔄 Pulau Penyengat pilot launch
 - 🔄 Enhanced AI trip planner
 
-### Q3 2024
+### Q3 2025
 - 📅 Bank Indonesia CBDC integration
 - 📅 Multi-island expansion
 - 📅 Mobile app (React Native)
 - 📅 IPFS storage for 3D assets
 
-### Q4 2024
+### Q4 2025
 - 📅 National tourism platform
 - 📅 Government partnership
 - 📅 International tourist onboarding
