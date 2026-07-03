@@ -114,7 +114,7 @@ This platform serves three primary objectives:
 
 ## 💰 MNEE Integration - Programmable Tourism Treasury
 
-> **MNEE Hackathon Submission** - Financial Automation Track
+> **MNEE** - Financial Automation Track
 
 STC Ultimate showcases MNEE's programmable money capabilities through **TourEscrow**, an automated financial system for tourism bookings. Experience the future of travel payments with USD-backed stablecoin automation.
 
@@ -227,7 +227,7 @@ src/lib/
 5. **Review Split** - See automated distribution
 6. **Confirm** - Execute escrow + split in one transaction
 
-### 🏆 MNEE Hackathon Highlights
+### 🏆 MNEE Highlights
 
 This implementation demonstrates:
 - ✅ **Financial Automation** - Smart escrow + automated revenue splits
@@ -303,11 +303,11 @@ Comprehensive documentation is available in the `docs/` directory:
 If you use this platform in your research, please cite it as:
 
 ```bibtex
-@software{stc_ultimate_2024,
-  author = {Principal Author},
+@software{stc_ultimate_2026,
+  author = {Akhmad Khudri},
   title = {STC Ultimate: A Blockchain-Enabled Smart Tourism Platform with IoT Integration},
-  year = {2024},
-  version = {2.5.6},
+  year = {2026},
+  version = {4.5.6},
   note = {Dissertation validation platform for Scopus Q3 publication}
 }
 ```
@@ -437,7 +437,7 @@ For academic collaboration or technical inquiries:
 ## 📈 Roadmap
 
 ### Completed ✅
-- **MNEE Financial Automation** (Hackathon submission)
+- **MNEE Financial Automation**
   - Smart escrow with programmable releases
   - Automated revenue split engine
   - OnchainKit swap & fiat on-ramp integration
