@@ -109,7 +109,7 @@ const wagmiConfig = createConfig({
         name: 'STC Ultimate',
         description: 'Smart Tourism & Cultural Platform - Multi-chain Support',
         url: typeof window !== 'undefined' ? window.location.origin : 'https://stc-ultimate.com',
-        icons: ['https://cdn.builder.io/api/v1/image/assets/TEMP/9756b3248bdd48d596519e7d98958e9df5588654dadf0bb17a71fc435bcb37b3?placeholderIfAbsent=true&apiKey=ad3941e5ec034c87bd50708c966e7b84'],
+        icons: ['https://cdn.builder.io/api/v1/image/assets/TEMP/9756b3248bdd48d596519e7d98958e9df5588654dadf0bb17a71fc435bcb37b3?placeholderIfAbsent=true&apiKey=null'],
       },
       showQrModal: true,
     }),
