@@ -1,0 +1,6 @@
+[package]
+name = "stc_ultimate_realtime"
+version = "0.1.0"
+description = "SpacetimeDB module for STC Ultimate real-time multiplayer features"
+
+[dependencies]

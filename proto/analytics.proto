@@ -1,0 +1,75 @@
+syntax = "proto3";
+
+package stc.analytics;
+
+// Real-time Analytics Service
+service AnalyticsService {
+  // Stream real-time system metrics
+  rpc StreamSystemMetrics(MetricsStreamRequest) returns (stream SystemMetrics);
+  
+  // Stream performance analytics
+  rpc StreamPerformanceData(PerformanceStreamRequest) returns (stream PerformanceData);
+  
+  // Get aggregated analytics
+  rpc GetAggregatedAnalytics(AnalyticsRequest) returns (AggregatedAnalytics);
+}
+
+// Metrics Stream Request
+message MetricsStreamRequest {
+  repeated string metric_types = 1;  // uptime, energy, network, devices, transactions
+  int32 interval_seconds = 2;        // Update interval
+}
+
+// System Metrics Message
+message SystemMetrics {
+  int64 timestamp = 1;
+  double system_uptime = 2;
+  double energy_consumption = 3;     // kWh
+  double network_bandwidth = 4;      // Percentage
+  int32 connected_devices = 5;
+  int32 active_transactions = 6;
+  double cpu_usage = 7;
+  double memory_usage = 8;
+  double disk_usage = 9;
+  map<string, double> custom_metrics = 10;
+}
+
+// Performance Stream Request
+message PerformanceStreamRequest {
+  string component = 1;  // blockchain, iot, scada, api
+  bool include_latency = 2;
+  bool include_throughput = 3;
+}
+
+// Performance Data Message
+message PerformanceData {
+  int64 timestamp = 1;
+  string component = 2;
+  double avg_latency_ms = 3;
+  double max_latency_ms = 4;
+  double min_latency_ms = 5;
+  int32 throughput_per_sec = 6;
+  int32 error_count = 7;
+  double error_rate = 8;
+  double success_rate = 9;
+}
+
+// Analytics Request
+message AnalyticsRequest {
+  int64 start_timestamp = 1;
+  int64 end_timestamp = 2;
+  repeated string metrics = 3;
+}
+
+// Aggregated Analytics Response
+message AggregatedAnalytics {
+  int64 period_start = 1;
+  int64 period_end = 2;
+  double total_energy_consumed = 3;
+  int32 total_transactions = 4;
+  int32 total_iot_actions = 5;
+  double avg_system_uptime = 6;
+  double avg_response_time = 7;
+  int32 total_alerts = 8;
+  map<string, double> category_metrics = 9;
+}

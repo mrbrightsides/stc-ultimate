@@ -1,0 +1,98 @@
+syntax = "proto3";
+
+package stc.iot;
+
+// IoT Device Monitoring Service
+service IoTMonitoringService {
+  // Stream real-time IoT device updates
+  rpc StreamDeviceUpdates(DeviceStreamRequest) returns (stream DeviceUpdate);
+  
+  // Stream device alerts and warnings
+  rpc StreamDeviceAlerts(AlertStreamRequest) returns (stream DeviceAlert);
+  
+  // Get device statistics
+  rpc GetDeviceStats(DeviceStatsRequest) returns (DeviceStats);
+  
+  // Control device (send commands)
+  rpc ControlDevice(DeviceControlRequest) returns (DeviceControlResponse);
+}
+
+// Device Stream Request
+message DeviceStreamRequest {
+  repeated string device_ids = 1;
+  repeated string categories = 2;  // hvac, lighting, security, access, environment, network
+  repeated string statuses = 3;    // online, offline, warning, error
+  bool include_sensors_only = 4;
+  bool include_actuators_only = 5;
+}
+
+// Device Update Message
+message DeviceUpdate {
+  string device_id = 1;
+  string name = 2;
+  string type = 3;           // sensor, actuator, controller
+  string category = 4;       // hvac, lighting, security, access, environment, network
+  string status = 5;         // online, offline, warning, error
+  double value = 6;
+  string unit = 7;
+  string location = 8;
+  int64 timestamp = 9;
+  bool is_active = 10;
+  bool is_controllable = 11;
+  map<string, string> metadata = 12;
+}
+
+// Alert Stream Request
+message AlertStreamRequest {
+  repeated string severities = 1;  // info, warning, critical
+  repeated string device_ids = 2;
+  bool unacknowledged_only = 3;
+}
+
+// Device Alert Message
+message DeviceAlert {
+  string alert_id = 1;
+  string severity = 2;       // info, warning, critical
+  string title = 3;
+  string message = 4;
+  int64 timestamp = 5;
+  string device_id = 6;
+  string device_name = 7;
+  bool acknowledged = 8;
+  string operator_id = 9;
+}
+
+// Device Statistics Request
+message DeviceStatsRequest {
+  string category = 1;  // Optional filter by category
+}
+
+// Device Statistics Response
+message DeviceStats {
+  int32 total_devices = 1;
+  int32 online_devices = 2;
+  int32 offline_devices = 3;
+  int32 warning_devices = 4;
+  int32 error_devices = 5;
+  double system_uptime = 6;
+  double avg_response_time = 7;
+  int64 last_updated = 8;
+  map<string, int32> devices_by_category = 9;
+}
+
+// Device Control Request
+message DeviceControlRequest {
+  string device_id = 1;
+  string action = 2;         // on, off, set_value, reset, etc.
+  double value = 3;          // For set_value actions
+  string operator_id = 4;
+  string reason = 5;
+}
+
+// Device Control Response
+message DeviceControlResponse {
+  bool success = 1;
+  string message = 2;
+  string device_id = 3;
+  int64 timestamp = 4;
+}
